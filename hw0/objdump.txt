@@ -1,0 +1,12 @@
+1, 
+file format elf64-x86-64
+architecture: i386:x86-64
+
+2,
+INIT
+FINI
+INIT_ARRAY
+INIT_ARRAYSZ
+FINI_ARRAY
+
+3,
